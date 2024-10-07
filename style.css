@@ -1,0 +1,46 @@
+header{
+    display: flex;
+    margin-top: 30px;
+}
+button{
+    margin-left: 60px;
+    background: #FC004A;
+ border: none;
+ border-radius: 10px;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+margin-left: 10px;
+}
+.h{
+    margin-left: 500px;
+}
+section img{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+main button{
+    border: 1px;
+    width: 235px;
+    height: 391px;
+}
+.m_{
+    background-color: white ;
+}
+.l{
+    margin-left: 100px;
+    border-radius: 5px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    bottom: 90px;
+}
+footer img{
+    margin-left: 600px;
+}
+h3{
+    margin-top: 30px;
+}
